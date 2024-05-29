@@ -5,9 +5,6 @@
 - **Neo4j**
 - **LXC (Linux Containers)**
 
-## Architecture
-![Architecture](Misc/dbcli.png)
-
 ## Prerequisites
 - Linux installation with root access
 - `apt` with standard repositories
